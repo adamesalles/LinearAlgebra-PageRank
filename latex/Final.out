@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Introdução}{}% 1
+\BOOKMARK [1][-]{section.2}{A Motivação}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Google}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{PageRank}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Outras aplicações}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{O\040Algoritmo}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Erros}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{A solução}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{PageRank como um problema de Álgebra Linear}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.4}{Método das potências}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Implementação Computacional}{}% 11
+\BOOKMARK [1][-]{section.5}{Adquirindo\040o\040Conjunto\040de\040Dados}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{Definindo funções}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{Procedimento de aquisição}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.3}{Como\040recuperar\040os\040dados}{section.5}% 15
+\BOOKMARK [1][-]{section.6}{Aplicação do PageRank em nosso conjunto de dados}{}% 16
+\BOOKMARK [2][-]{subsection.6.1}{Recuperando\040e\040visualizando\040os\040dados}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.2}{Aplicando os algorítmos}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.3}{Adicionando\040fator\040de\040aleatoriedade}{section.6}% 19
+\BOOKMARK [1][-]{section.7}{Conclusão}{}% 20
