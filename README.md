@@ -1,20 +1,22 @@
 # Linear Algebra PageRank
 
-
 ## Alunos
 
 - Eduardo Adame Salles
 - Rodrigo Gomes Hutz Pintucci
 
-> Tô cansado. - Aristóteles.
+> Nunca existiu uma grande inteligência sem uma veia de loucura. - Aristóteles.
 
+Trabalho finalizado.
+
+Em [Jupyter Notebook](Final.ipynb), em [PDF feito com LaTeX](./latex/Final.pdf).
 
 ## Roteiro
 
-1. [Introdução](Introduction.ipynb) 
-2. [Apresentar o problema](TheIssue.ipynb) 
-3. [Discorrer sobre os algorítmos (ALGEBRA LINEAR)](TheAlgorithm.ipynb) 
-4. [Comparar eig-method x dot-prod-method (Usando o array pequeno)](PageRankAlg.ipynb) 
-5. [Aquisição do DataSet](CreateDB.ipynb) 
-6. [Analise do nosso DataSet](Analysis.ipynb) 
-7. [Conclusão](Conclusion.ipynb) 
+1. [Introdução](./chapters/Introduction.ipynb) 
+2. [A Motivação](./chapters/TheIssue.ipynb) 
+3. [O Algoritmo](./chapters/TheAlgorithm.ipynb) 
+4. [Implementação computacional](./chapters/PageRankAlg.ipynb) 
+5. [Adquirindo o conjunto de dados](./chapters/CreateDB.ipynb) 
+6. [Aplicação do PageRank em nosso conjunto de dados](./chapters/Analysis.ipynb) 
+7. [Conclusão](./chapters/Conclusion.ipynb) 
